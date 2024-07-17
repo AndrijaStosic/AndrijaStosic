@@ -1,3 +1,8 @@
+![gific](Developer.gif)
+
+
+
+
 # Hello, I'm Andrija 👋
 
 
