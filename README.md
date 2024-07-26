@@ -13,7 +13,7 @@ I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am lear
 - 💻 Python (Tkinter, pandas, matplotlib)
 - 🌐 HTML, CSS
 - 🕹️ Pygame
-- 🎮 C#
+- 🎮 C#, Unity
 
 ## My favourite Projects that I made
 - 📝 https://github.com/AndrijaStosic/Market-List: An application for entering and displaying the prices of fruits and vegetables.
