@@ -7,12 +7,13 @@
 
 
 
-I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am learning web programming, including HTML and CSS.
+I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am learning C#, and web programming, including HTML and CSS.
 
 ## Skills and Technologies
 - 💻 Python (Tkinter, pandas, matplotlib)
 - 🌐 HTML, CSS
 - 🕹️ Pygame
+- 🎮 C#
 
 ## My favourite Projects that I made
 - 📝 https://github.com/AndrijaStosic/Market-List: An application for entering and displaying the prices of fruits and vegetables.
@@ -20,6 +21,7 @@ I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am lear
 
 ## Goals
 - 📚 Learn more about web programming
+- 📚 Learn more about unity and C#
 - 🚀 Create more interesting projects
 
 ## Contact
