@@ -7,7 +7,7 @@
 
 
 
-I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am learning C#, and web programming, including HTML and CSS.
+I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am learning C#, and web programming, including HTML and CSS and JavaScript.
 
 ## Skills and Technologies
 - 💻 Python (Tkinter, pandas, matplotlib)
