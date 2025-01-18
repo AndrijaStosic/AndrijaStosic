@@ -6,8 +6,7 @@
 # Hello, I'm Andrija 👋
 
 
-
-I am a 13-year-old programmer who loves Python and Tkinter. Currently, I am learning C#, and web programming, including HTML and CSS and JavaScript.
+I am a 13-year-old programmer who loves Python and Tkinter. Currently, I am learning C#, and web programming, including HTML and CSS and JavaScript.Started learning web scraping packages for python like requests and selenium
 
 ## Skills and Technologies
 - 💻 Python (Tkinter, pandas, matplotlib)
