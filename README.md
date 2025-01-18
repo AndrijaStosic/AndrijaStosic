@@ -14,6 +14,7 @@ I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am lear
 - 🌐 HTML, CSS , JavaScript
 - 🕹️ Pygame
 - 🎮 C#, Unity
+- 💻 Python web scraping (selenium,requests)
   
 
 
@@ -25,6 +26,7 @@ I am a 12-year-old programmer who loves Python and Tkinter. Currently, I am lear
 - 📚 Learn more about web programming
 - 📚 Learn more about unity and C#
 - 🚀 Create more interesting projects
+- 📚 Learn more about web scraping
 
 ## Contact
 - 📧 stolejao@gmail.com
