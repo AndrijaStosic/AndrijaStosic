@@ -20,6 +20,7 @@ I am a 13-year-old programmer who loves Python and Tkinter. Currently, I am lear
 ## My favourite Projects that I made
 - 📝 https://github.com/AndrijaStosic/Market-List: An application for entering and displaying the prices of fruits and vegetables.
 - 🎮 https://github.com/AndrijaStosic/Catch-the-rectangles: A game where you need to catch the triangles in pygame.
+- 📝 https://github.com/AndrijaStosic/Total-spendings-analysis: A program where it counts for what did you spent your money and displaying it in pandas as a tabel and it can be convertet into .csv file
 
 ## Goals
 - 📚 Learn more about web programming
