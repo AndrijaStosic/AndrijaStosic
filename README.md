@@ -31,4 +31,4 @@ Besides that, I enjoy web programming (HTML, CSS, JavaScript) and experimenting 
 - 💡 Create more interesting and useful applications.  
 
 ## Contact  
-- 📧 stolejao@gmail.com  
+- 📧 andrijasch11@gmail.com
